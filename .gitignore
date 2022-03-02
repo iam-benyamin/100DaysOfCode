@@ -1,0 +1,11 @@
+
+# enviroment dirctories
+env
+.env
+venv
+.venv
+
+# python cache file and dirctory
+*.pyc
+__pycache__/
+__pycache__/*

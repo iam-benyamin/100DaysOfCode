@@ -40,3 +40,17 @@ day 35 - Pagination.<br />
 day 36 - Logging in python3 and djagno.<br />
 day 37 - Cashing in Django.<br />
 day 38 - Review what i learn tell now.<br />
+day 39 - Django middleware<br />
+day 40 - Django signals<br />
+day 41 - time zone module<br />
+day 42 - built-in template tags and create custom template tags<br />
+day 43 - Django cookie<br />
+day 44 - Django check system and how to write a custom one.<br />
+day 45 - Django code style and clean code<br />
+day 46 - site map<br />
+day 47 - emails<br />
+day 48 - HttpRequest and HttpResponse<br />
+day 49 - messages in Django<br />
+day 50 - geolocation<br />
+day 51 - lookups in Django<br />
+day 52 - read an article about security in Django<br />
